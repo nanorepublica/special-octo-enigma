@@ -1,29 +1,49 @@
-LONDON, 1872
-Residence of Monsieur Phileas Fogg.
--> london
+Cambridge, 2020
+Residence of Madame Phileas Fogg.
+-> cambridge
 
-=== london ===
-Monsieur Phileas Fogg returned home early from the Reform Club, and in a new-fangled steam-carriage, besides!  
-"Passepartout," said he. "We are going around the world!"
+=== cambridge ===
+Madame Phileas Fogg returned home early from the Reform Club, and in a new-fangled steam-carriage, besides!  
+"Passepartout," said he. "We are going to The C3 Church!"
 
-+ "Around the world, Monsieur?"
++ "To C3, Madame?"
     I was utterly astonished. 
-    -> astonished
-+ [Nod curtly.] -> nod
+    -> journey
 
+=== journey
+We decided to get there ...
+    + cycling
+     -> coldhams
+    + taxi
+     -> stuck
+     
+=== stuck
+We got stuck in traffic and arrived late so went straight into the auditorium
+    -> auditorium
 
-=== astonished ===
-"You are in jest!" I told him in dignified affront. "You make mock of me, Monsieur."
-"I am quite serious."
+=== coldhams ===
+Madame Phileas Fogg arrives at Coldhams coffee and asks for...
 
-+ "But of course"
++ A dirty Chai
+    -> auditorium
++ An eye opener
+    -> auditorium
++ Flat White
+    -> auditorium
+
+=== auditorium ===
+Worship is about to begin! The Byron called out "Lets get ready to Worship the name of Jesus"
+
++ raises one hand
+    -> response
++ nods head
+    -> response
++ freak out and run away
     -> ending
 
-
-=== nod ===
-I nodded curtly, not believing a word of it.
+=== response ===
+I am giving my life to Christ!
 -> ending
-
 
 === ending
 "We shall circumnavigate the globe within eighty days." He was quite calm as he proposed this wild scheme. "We leave for Paris on the 8:25. In an hour."
